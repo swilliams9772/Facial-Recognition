@@ -62,7 +62,7 @@ Facial-Recognition/
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/Facial-Recognition.git
+git clone https://github.com/swilliams9772/Facial-Recognition.git
 cd Facial-Recognition
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
